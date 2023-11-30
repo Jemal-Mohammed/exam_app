@@ -1,0 +1,273 @@
+[
+  {
+      "question": "What is React.js?",
+      "options": ["A programming language", "A JavaScript framework for building user interfaces", "A database management system", "An operating system"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who developed React.js?",
+      "options": ["Facebook", "Google", "Evan You", "Microsoft"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which method is used to change the state in React.js?",
+      "options": ["this.setState()", "this.changeState()", "this.modifyState()", "this.updateState()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is JSX in the context of React.js?",
+      "options": ["JavaScript XML", "Java Syntax Extension", "JavaScript Extension", "JSON XML"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the render() method?",
+      "options": ["To modify the state", "To handle events", "To render the component to the DOM", "To define props"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the role of ReactDOM in React.js?",
+      "options": ["To manage the component lifecycle", "To render React components to the DOM", "To handle AJAX requests", "To provide routing functionality"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of props in React.js?",
+      "options": ["To manage state", "To handle events", "To pass data between components", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which lifecycle method is called after a component has been rendered to the DOM in React.js?",
+      "options": ["componentDidUpdate", "componentDidMount", "componentWillUpdate", "componentWillMount"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, how can you prevent a component from rendering?",
+      "options": ["Using shouldComponentUpdate", "Using componentWillUpdate", "Using componentDidUpdate", "Using componentWillMount"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the setState() callback function in React.js?",
+      "options": ["To define component methods", "To handle asynchronous operations", "To access the updated state", "To handle events"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which React.js hook is used to perform side effects in a functional component?",
+      "options": ["useEffect", "useCallback", "useContext", "useReducer"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the key prop in a list?",
+      "options": ["To set the background color", "To provide a unique identifier for each list item", "To define the list item content", "To handle click events"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the React Router library?",
+      "options": ["To manage state", "To handle AJAX requests", "To provide routing functionality", "To render React components to the DOM"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to fetch data in a React component?",
+      "options": ["fetchData()", "fetch()", "axios()", "get()"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the useContext hook in React.js?",
+      "options": ["To manage state", "To handle events", "To provide access to the context object", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In React.js, what is the purpose of the useMemo hook?",
+      "options": ["To manage state", "To perform memoization for expensive calculations", "To handle events", "To define component methods"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the Redux library in React.js?",
+      "options": ["To manage state in a predictable way", "To handle routing", "To perform server-side rendering", "To provide styling functionality"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which method is used to create a React component in a class component?",
+      "options": ["createClass", "createComponent", "defineComponent", "renderComponent"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the dangerouslySetInnerHTML prop?",
+      "options": ["To handle events", "To set the background color", "To render HTML content dangerously", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the PureComponent in React.js?",
+      "options": ["To define pure functions", "To create components with pure HTML", "To create class components with pure functions", "To perform pure CSS styling"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to update the state based on the previous state in React.js?",
+      "options": ["setState()", "updateState()", "modifyState()", "prevState()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the Fragment element?",
+      "options": ["To create a fragment of HTML", "To define component methods", "To handle events", "To group multiple elements without adding an extra node to the DOM"],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the purpose of the React DevTools?",
+      "options": ["To handle events", "To provide debugging and profiling tools for React applications", "To manage state", "To create components"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which React.js hook is used to manage state in a functional component?",
+      "options": ["useState", "useEffect", "useReducer", "useContext"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the forwardRef function?",
+      "options": ["To forward props to child components", "To forward events to parent components", "To create a reference to a DOM element", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the componentDidCatch method in React.js?",
+      "options": ["To handle events", "To handle asynchronous operations", "To catch JavaScript errors anywhere in the component tree", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to render a React component to a string?",
+      "options": ["renderToString()", "renderToHTML()", "componentToString()", "componentToHTML()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the createRef function?",
+      "options": ["To create a reference to a DOM element", "To define component methods", "To handle events", "To forward props to child components"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the React.lazy function in React.js?",
+      "options": ["To handle lazy loading of components", "To create components with pure functions", "To perform lazy rendering", "To provide styling functionality"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which method is used to render a React component conditionally?",
+      "options": ["renderConditionally()", "renderIf()", "render()", "conditionalRender()"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In React.js, what is the purpose of the componentDidUpdate method?",
+      "options": ["To handle events", "To handle asynchronous operations", "To perform side effects", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the React.memo function in React.js?",
+      "options": ["To create a memoized version of a component", "To handle events", "To create a reference to a DOM element", "To define component methods"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which React.js hook is used to manage side effects in a functional component?",
+      "options": ["useEffect", "useCallback", "useMemo", "useReducer"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the useContext hook?",
+      "options": ["To manage state", "To handle events", "To provide access to the context object", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the React Router library?",
+      "options": ["To manage state", "To handle AJAX requests", "To provide routing functionality", "To render React components to the DOM"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to fetch data in a React component?",
+      "options": ["fetchData()", "fetch()", "axios()", "get()"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the useContext hook in React.js?",
+      "options": ["To manage state", "To handle events", "To provide access to the context object", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In React.js, what is the purpose of the useMemo hook?",
+      "options": ["To manage state", "To perform memoization for expensive calculations", "To handle events", "To define component methods"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the Redux library in React.js?",
+      "options": ["To manage state in a predictable way", "To handle routing", "To perform server-side rendering", "To provide styling functionality"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which method is used to create a React component in a class component?",
+      "options": ["createClass", "createComponent", "defineComponent", "renderComponent"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the dangerouslySetInnerHTML prop?",
+      "options": ["To handle events", "To set the background color", "To render HTML content dangerously", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the PureComponent in React.js?",
+      "options": ["To define pure functions", "To create components with pure HTML", "To create class components with pure functions", "To perform pure CSS styling"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to update the state based on the previous state in React.js?",
+      "options": ["setState()", "updateState()", "modifyState()", "prevState()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the Fragment element?",
+      "options": ["To create a fragment of HTML", "To define component methods", "To handle events", "To group multiple elements without adding an extra node to the DOM"],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the purpose of the React DevTools?",
+      "options": ["To handle events", "To provide debugging and profiling tools for React applications", "To manage state", "To create components"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which React.js hook is used to manage state in a functional component?",
+      "options": ["useState", "useEffect", "useReducer", "useContext"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the forwardRef function?",
+      "options": ["To forward props to child components", "To forward events to parent components", "To create a reference to a DOM element", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the componentDidCatch method in React.js?",
+      "options": ["To handle events", "To handle asynchronous operations", "To catch JavaScript errors anywhere in the component tree", "To define component methods"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to render a React component to a string?",
+      "options": ["renderToString()", "renderToHTML()", "componentToString()", "componentToHTML()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In React.js, what is the purpose of the createRef function?",
+      "options": ["To create a reference to a DOM element", "To define component methods", "To handle events", "To forward props to child components"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the React.lazy function in React.js?",
+      "options": ["To handle lazy loading of components", "To create components with pure functions", "To perform lazy rendering", "To provide styling functionality"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which method is used to render a React component conditionally?",
+      "options": ["renderConditionally()", "renderIf()", "render()", "conditionalRender()"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In React.js, what is the purpose of the componentDidUpdate method?",
+      "options": ["To handle events", "To handle asynchronous operations", "To perform side effects", "To define component methods"],
+      "correctAnswer": 2
+  },
+        {
+            "question": "Which React.js hook is used to manage state in a functional component?",
+            "options": ["useState", "useEffect", "useReducer", "useContext"],
+            "correctAnswer": 0
+    }
+  ]
+  

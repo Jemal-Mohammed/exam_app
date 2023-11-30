@@ -1,0 +1,172 @@
+[
+  {
+    "question": "What does PHP stand for?",
+    "options": [
+      "Personal Home Page",
+      "Hypertext Preprocessor",
+      "Programming Hypertext Processor",
+      "Pretext Hypertext Processor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a correct way to start a PHP block?",
+    "options": ["<?php", "<script>", "<%php", "{php"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In PHP, how do you echo the value of a variable?",
+    "options": ["print($variable);", "echo $variable;", "console.log($variable);", "printf($variable);"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the correct way to comment in PHP?",
+    "options": [
+      "// This is a comment",
+      "# This is a comment",
+      "/ * This is a comment * /",
+      "' This is a comment"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which function is used to get the length of a string in PHP?",
+    "options": ["len()", "strlen()", "length()", "strlength()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the PHP function `isset()`?",
+    "options": [
+      "To check if a variable is set or not",
+      "To set the value of a variable",
+      "To initialize a variable",
+      "To unset a variable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which superglobal variable is used to collect form data?",
+    "options": ["$_GET", "$_POST", "$_REQUEST", "$_FORM"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you concatenate two strings in PHP?",
+    "options": [
+      "$string1 + $string2",
+      "$string1 . $string2",
+      "$string1 : $string2",
+      "$string1 - $string2"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the correct way to start a session in PHP?",
+    "options": [
+      "session.start()",
+      "start_session()",
+      "session_start()",
+      "init_session()"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which PHP function is used to open a file for writing?",
+    "options": ["open_file()", "file_open()", "fopen()", "write_file()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the `foreach` loop do in PHP?",
+    "options": [
+      "Iterates over a sequence of numbers",
+      "Iterates over the values in an array",
+      "Executes a block of code a fixed number of times",
+      "Loops through a string character by character"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you define a constant in PHP?",
+    "options": [
+      "define('MY_CONSTANT', 'value')",
+      "const MY_CONSTANT = 'value';",
+      "$MY_CONSTANT = 'value';",
+      "constant('MY_CONSTANT', 'value')"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which PHP operator is used to compare both value and type?",
+    "options": ["==", "===", "=", "!="],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the PHP function `unlink()`?",
+    "options": [
+      "To create a link between files",
+      "To remove a directory",
+      "To delete a file",
+      "To copy a file"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is a valid PHP array?",
+    "options": [
+      "array('apple', 'banana', 'cherry')",
+      "['apple', 'banana', 'cherry']",
+      "{'apple', 'banana', 'cherry'}",
+      "<'apple', 'banana', 'cherry'>"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the PHP function `header()`?",
+    "options": [
+      "To create a header section in HTML",
+      "To send raw HTTP headers",
+      "To set a cookie",
+      "To define a page title"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which PHP function is used to retrieve information about the current date and time?",
+    "options": ["current_time()", "date()", "get_date()", "time()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How do you access the value of the first element in an associative array in PHP?",
+    "options": [
+      "$array[0]",
+      "$array[1]",
+      "$array['first']",
+      "$array->first"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the PHP `try`, `catch`, and `finally` blocks?",
+    "options": [
+      "To create conditional statements",
+      "To handle exceptions",
+      "To define loops",
+      "To declare variables"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which PHP function is used to format a number with grouped thousands?",
+    "options": ["number_format()", "format_number()", "group_number()", "thousands_format()"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does PHP's `echo` statement do?",
+    "options": [
+      "Outputs text or variables",
+      "Receives user input",
+      "Defines a constant",
+      "Creates a loop"
+    ],
+    "correctAnswer": 0
+  }
+]

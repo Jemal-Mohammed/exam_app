@@ -1,0 +1,337 @@
+[
+  {
+    "question": "What is Vue.js?",
+    "options": [
+      "A programming language",
+      "A JavaScript framework for building user interfaces",
+      "A database management system",
+      "An operating system"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Vue.js was created by:",
+    "options": ["Facebook", "Google", "Evan You", "Microsoft"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which directive is used for two-way data binding in Vue.js?",
+    "options": ["v-model", "v-bind", "v-on", "v-if"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the v-for directive?",
+    "options": ["Conditional rendering", "Event binding", "List rendering", "Two-way data binding"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the lifecycle hook that is called after a Vue instance has been destroyed?",
+    "options": ["beforeDestroy", "destroyed", "afterDestroy", "destroy"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which Vue.js feature allows you to reuse a component in multiple places in your app?",
+    "options": ["Mixins", "Filters", "Components", "Directives"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the computed property?",
+    "options": [
+      "To perform asynchronous operations",
+      "To store global data",
+      "To cache and reuse the result of an expression",
+      "To define methods"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the correct syntax for binding an attribute in Vue.js?",
+    "options": ["v-attribute", "v-bind", "v-attr", "v-model"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is used for conditional rendering in Vue.js?",
+    "options": ["v-if", "v-for", "v-switch", "v-else"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of the v-cloak directive in Vue.js?",
+    "options": [
+      "To hide an element until Vue.js has compiled the template",
+      "To display a loading spinner",
+      "To create a tooltip",
+      "To animate an element"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which Vue.js directive is used for handling user inputs?",
+    "options": ["v-bind", "v-on", "v-model", "v-if"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the v-show directive in Vue.js?",
+    "options": [
+      "To conditionally render an element",
+      "To toggle the visibility of an element",
+      "To bind a class to an element",
+      "To define a method"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which Vue.js lifecycle hook is called before the component is inserted into the DOM?",
+    "options": ["created", "mounted", "beforeMount", "beforeCreate"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How can you include external libraries in a Vue.js project?",
+    "options": [
+      "Use the <script> tag in HTML",
+      "Use the require() function",
+      "Use the import statement",
+      "Include them directly in the template"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the filters?",
+    "options": [
+      "To format text in the template",
+      "To create animations",
+      "To handle form validations",
+      "To define global variables"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the default development server used by Vue CLI?",
+    "options": ["Apache", "Nginx", "Express", "Django"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How can you emit a custom event in Vue.js?",
+    "options": [
+      "Using the v-on directive",
+      "Using the $emit method",
+      "Using the v-bind directive",
+      "Using the v-model directive"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the nextTick method?",
+    "options": [
+      "To set a timeout for a function",
+      "To schedule a callback function after the next DOM update",
+      "To delay the execution of a function",
+      "To handle asynchronous operations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the v-pre directive in Vue.js?",
+    "options": [
+      "To prevent a block of text from being compiled",
+      "To pre-fetch data before rendering",
+      "To preload images in the template",
+      "To pre-render a component"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a Vue.js router hook?",
+    "options": [
+      "beforeRouteLoad",
+      "routerEnter",
+      "beforeRouteEnter",
+      "onRouteChange"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the provide and inject options?",
+    "options": [
+      "To create global mixins",
+      "To share data between parent and child components without using props",
+      "To define global directives",
+      "To manage state in Vuex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the scoped attribute in a Vue.js style block?",
+    "options": [
+      "To limit the scope of a style to a specific component",
+      "To apply styles globally",
+      "To override styles from parent components",
+      "To disable style encapsulation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a valid way to create a custom directive in Vue.js?",
+    "options": ["v-custom", "v-directive", "v-bind:custom", "v-on:custom"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of the slot element in Vue.js?",
+    "options": [
+      "To define a placeholder for content that will be inserted by the parent component",
+      "To create dynamic components",
+      "To define a global variable",
+      "To handle HTTP requests"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can you access the root instance of a Vue.js application?",
+    "options": ["Vue.root", "this.$root", "this.root", "Vue.instance"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the activated lifecycle hook?",
+    "options": [
+      "To handle component activation events",
+      "To perform cleanup when a component is deactivated",
+      "To perform an action after a component has been inserted into the DOM",
+      "To handle authentication events"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which Vue.js feature is used for state management in large applications?",
+    "options": ["Filters", "Mixins", "Vuex", "Directives"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the keep-alive component in Vue.js?",
+    "options": [
+      "To cache and reuse components",
+      "To keep components alive indefinitely",
+      "To prevent components from being destroyed",
+      "To persist state across route changes"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "How can you dynamically bind a class in Vue.js?",
+    "options": [
+      "Using the v-style directive",
+      "Using the v-class directive",
+      "Using the v-bind:class directive",
+      "Using the v-bind directive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is a lifecycle hook in Vue.js?",
+    "options": ["v-created", "beforeUpdate", "onMounted", "v-destroyed"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the v-once directive?",
+    "options": [
+      "To bind an event listener",
+      "To render a block of text only once",
+      "To create a one-time binding",
+      "To define a global event"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the transition component in Vue.js?",
+    "options": [
+      "To manage asynchronous operations",
+      "To create animated transitions between elements",
+      "To define global variables",
+      "To handle form validations"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a valid way to define a method in Vue.js?",
+    "options": [
+      "function myMethod() { /* code */ }",
+      "myMethod: () => { /* code */ }",
+      "myMethod() { /* code */ }",
+      "methods: { myMethod: () => { /* code */ } }"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the Vue.js devtools extension?",
+    "options": [
+      "To write unit tests for Vue components",
+      "To debug JavaScript code",
+      "To inspect and debug Vue.js applications",
+      "To manage project dependencies"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How can you conditionally apply styles in Vue.js?",
+    "options": [
+      "Using the v-style directive",
+      "Using the v-bind directive with a class object",
+      "Using the v-if directive",
+      "Using the v-for directive"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the v-on directive in Vue.js?",
+    "options": [
+      "To bind an event listener",
+      "To conditionally render an element",
+      "To define a method",
+      "To create a one-time binding"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In Vue.js, what is the purpose of the template element?",
+    "options": [
+      "To define global styles",
+      "To include external HTML files",
+      "To create a template for a component",
+      "To define a placeholder for content"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "How can you communicate between parent and child components in Vue.js?",
+    "options": [
+      "Using the v-communicate directive",
+      "Using Vuex",
+      "Using the provide and inject options",
+      "Using the v-bind directive"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the purpose of the v-model directive in Vue.js?",
+    "options": [
+      "To define a method",
+      "To bind an event listener",
+      "To create two-way data binding on form elements",
+      "To include external libraries"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is a valid way to conditionally render content in Vue.js?",
+    "options": ["v-show", "v-switch", "v-hide", "v-render"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the purpose of the Vue.js Router?",
+    "options": [
+      "To handle asynchronous operations",
+      "To manage global state",
+      "To create animated transitions",
+      "To implement navigation in a Vue.js application"
+    ],
+    "correctAnswer": 3
+  }
+]

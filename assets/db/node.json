@@ -1,0 +1,357 @@
+[
+  {
+      "question": "What is Node.js?",
+      "options": [
+          "A web browser",
+          "A server-side JavaScript runtime",
+          "A programming language",
+          "A database management system"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Who developed Node.js?",
+      "options": ["Facebook", "Google", "Evan You", "Ryan Dahl"],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which module in Node.js is used for building web servers?",
+      "options": ["http", "fs", "path", "net"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is npm in the context of Node.js?",
+      "options": [
+          "Node Package Manager",
+          "Node Project Manager",
+          "Network Protocol Module",
+          "Node Process Manager"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In Node.js, which function is used to include modules?",
+      "options": ["require()", "import()", "use()", "add()"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the package.json file in a Node.js application?",
+      "options": [
+          "To store user credentials",
+          "To define project metadata and dependencies",
+          "To configure the server",
+          "To define routing rules"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which Node.js module is used for file-based operations?",
+      "options": ["fs", "http", "path", "net"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the role of the Express.js framework in Node.js?",
+      "options": [
+          "Database management",
+          "Web server development",
+          "Authentication and authorization",
+          "Data validation"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In Node.js, what is the purpose of the process object?",
+      "options": [
+          "To handle file operations",
+          "To interact with the network",
+          "To manage the Node.js process",
+          "To perform mathematical calculations"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which method is used to handle asynchronous operations in Node.js?",
+      "options": ["sync()", "await()", "async()", "handle()"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the event-driven programming paradigm in Node.js?",
+      "options": [
+          "Sequential execution of code",
+          "Execution based on time intervals",
+          "Handling events using callbacks",
+          "Synchronous execution of code"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the middleware in Express.js?",
+      "options": [
+          "To define static files",
+          "To handle HTTP requests and responses",
+          "To create session management",
+          "To perform database operations"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which Node.js module is used for working with file paths?",
+      "options": ["http", "fs", "path", "url"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the global object in Node.js?",
+      "options": [
+          "To define global variables",
+          "To manage system resources",
+          "To handle user authentication",
+          "To create server instances"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of the following is a popular NoSQL database commonly used with Node.js?",
+      "options": ["MySQL", "SQLite", "PostgreSQL", "MongoDB"],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the role of the EventEmitter class in Node.js?",
+      "options": [
+          "To handle HTTP requests",
+          "To perform encryption",
+          "To emit and listen for events",
+          "To manage database connections"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In Node.js, what is the purpose of the Buffer class?",
+      "options": [
+          "To handle file I/O operations",
+          "To store binary data",
+          "To compress and decompress files",
+          "To manage network connections"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which npm command is used to install dependencies listed in package.json?",
+      "options": ["npm list", "npm install", "npm update", "npm init"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the 'require' function in Node.js?",
+      "options": [
+          "To include external modules",
+          "To define project metadata",
+          "To handle HTTP requests",
+          "To create routes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'path' module?",
+      "options": [
+          "To handle file operations",
+          "To interact with the network",
+          "To manage URL paths",
+          "To perform database operations"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the 'url' module in Node.js?",
+      "options": [
+          "To handle file paths",
+          "To parse and format URLs",
+          "To create server instances",
+          "To perform database operations"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which npm command is used to uninstall a package?",
+      "options": ["npm uninstall", "npm remove", "npm delete", "npm discard"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the 'net' module in Node.js?",
+      "options": [
+          "To handle network operations",
+          "To perform encryption",
+          "To create routes",
+          "To manage database connections"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In Node.js, how can you handle errors in asynchronous operations?",
+      "options": [
+          "Using try-catch blocks",
+          "Using if-else statements",
+          "Using the 'error' event",
+          "Using the 'success' event"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the 'os' module in Node.js?",
+      "options": [
+          "To handle file operations",
+          "To manage system resources",
+          "To create server instances",
+          "To perform encryption"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which npm command is used to see a list of installed packages?",
+      "options": ["npm view", "npm list", "npm show", "npm info"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the 'crypto' module in Node.js?",
+      "options": [
+          "To handle network operations",
+          "To perform encryption and decryption",
+          "To manage system resources",
+          "To create routes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'child_process' module?",
+      "options": [
+          "To handle child components",
+          "To create child processes",
+          "To manage HTTP requests",
+          "To perform database operations"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which npm command is used to update a package to the latest version?",
+      "options": ["npm upgrade", "npm update", "npm install", "npm change"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the 'cluster' module in Node.js?",
+      "options": [
+          "To handle network operations",
+          "To create a cluster of servers",
+          "To manage system resources",
+          "To perform encryption"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'zlib' module?",
+      "options": [
+          "To handle file compression",
+          "To perform encryption",
+          "To manage system resources",
+          "To create routes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which npm command is used to install a specific version of a package?",
+      "options": [
+          "npm install package@version",
+          "npm install package-version",
+          "npm install package --version",
+          "npm install -v package"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the 'util' module in Node.js?",
+      "options": [
+          "To handle file operations",
+          "To perform encryption",
+          "To create server instances",
+          "To provide utility functions"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'stream' module?",
+      "options": [
+          "To handle file operations",
+          "To manage system resources",
+          "To create server instances",
+          "To work with streaming data"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which npm command is used to install a package globally?",
+      "options": [
+          "npm add package -g",
+          "npm install -g package",
+          "npm global install package",
+          "npm package global"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the 'assert' module in Node.js?",
+      "options": [
+          "To handle file operations",
+          "To perform encryption",
+          "To create server instances",
+          "To provide assertions for unit testing"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'dns' module?",
+      "options": [
+          "To handle DNS operations",
+          "To perform encryption",
+          "To create server instances",
+          "To manage system resources"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which npm command is used to uninstall a globally installed package?",
+      "options": [
+          "npm remove -g package",
+          "npm uninstall package -g",
+          "npm delete -g package",
+          "npm discard -g package"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the 'querystring' module in Node.js?",
+      "options": [
+          "To handle file operations",
+          "To parse and stringify URL query parameters",
+          "To create server instances",
+          "To manage system resources"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In Node.js, what is the purpose of the 'events' module?",
+      "options": [
+          "To handle network operations",
+          "To perform encryption",
+          "To create routes",
+          "To implement event-driven programming"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Which npm command is used to see detailed information about a package?",
+      "options": [
+          "npm show package",
+          "npm info package",
+          "npm view package",
+          "npm details package"
+      ],
+      "correctAnswer": 1
+  }
+]

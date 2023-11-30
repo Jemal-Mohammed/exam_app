@@ -1,0 +1,167 @@
+[
+  {
+      "question": "What does HTML stand for?",
+      "options": [
+          "Hyper Text Markup Language",
+          "Hyperlinks and Text Markup Language",
+          "Home Tool Markup Language",
+          "High-level Text Markup Language"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which HTML tag is used for creating an unordered list?",
+      "options": ["<ol>", "<dl>", "<ul>", "<li>"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In HTML, what does the <a> tag stand for?",
+      "options": ["Attribute", "Action", "Anchor", "Abbreviation"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the HTML <head> tag?",
+      "options": [
+          "Defines the main content of the HTML document",
+          "Contains metadata about the HTML document",
+          "Specifies a header for a section or page",
+          "Creates a hyperlink"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which HTML element is used for creating a table?",
+      "options": ["<table>", "<tr>", "<td>", "<th>"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What does the HTML attribute 'src' stand for?",
+      "options": ["Source", "Script", "Style", "Size"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In HTML, what is the purpose of the <em> element?",
+      "options": [
+          "Defines a hyperlink",
+          "Italicizes text",
+          "Defines emphasized text",
+          "Creates a list item"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which HTML tag is used for creating a line break?",
+      "options": ["<lb>", "<break>", "<newline>", "<br>"],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What is the correct HTML for inserting an image?",
+      "options": [
+          "<img src='image.jpg' alt='MyImage'>",
+          "<image src='image.jpg' alt='MyImage'>",
+          "<img alt='MyImage'>image.jpg</img>",
+          "<img>image.jpg</img>"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In HTML, what does the acronym DOCTYPE stand for?",
+      "options": [
+          "Document Type",
+          "Document Text",
+          "Document Template",
+          "Document Style"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which HTML tag is used for creating a hyperlink?",
+      "options": ["<link>", "<a>", "<href>", "<hyperlink>"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the HTML <footer> element?",
+      "options": [
+          "Defines a section that is quoted from another source",
+          "Specifies a header for a section or page",
+          "Represents a footer for a section or page",
+          "Creates a navigation menu"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which HTML tag is used for creating a form?",
+      "options": ["<form>", "<input>", "<button>", "<label>"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the purpose of the HTML attribute 'alt' in the <img> tag?",
+      "options": [
+          "Alternative text for the image",
+          "Alignment of the image",
+          "Allowance of image size",
+          "Attribute for linking the image"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In HTML, what is the purpose of the <strong> element?",
+      "options": [
+          "Defines a section that is quoted from another source",
+          "Defines important text",
+          "Defines emphasized text",
+          "Creates a bold text"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which HTML tag is used for creating an ordered list?",
+      "options": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is the purpose of the HTML <header> element?",
+      "options": [
+          "Defines the main content of the HTML document",
+          "Represents introductory content",
+          "Specifies a header for a section or page",
+          "Creates a navigation menu"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which HTML tag is used for creating a paragraph?",
+      "options": ["<p>", "<para>", "<text>", "<line>"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the correct HTML for creating a hyperlink to an external page?",
+      "options": [
+          "<a href='http://example.com'>Link</a>",
+          "<a src='http://example.com'>Link</a>",
+          "<link href='http://example.com'>Link</link>",
+          "<a alt='http://example.com'>Link</a>"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In HTML, what does the <abbr> element stand for?",
+      "options": ["Abbreviation", "Absolute", "Abstract", "Attribute"],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which HTML tag is used for creating a horizontal line?",
+      "options": ["<line>", "<br>", "<hr>", "<hline>"],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the purpose of the HTML <nav> element?",
+      "options": [
+          "Defines the main content of the HTML document",
+          "Creates a navigation menu",
+          "Specifies a header for a section or page",
+          "Represents introductory content"
+      ],
+      "correctAnswer": 1
+  }
+]
